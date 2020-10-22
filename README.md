@@ -9,5 +9,5 @@
 
 I have created two API endpoints for the this application to read and create customers.
 
-- Get multiple customers: http://localhost:30002/customers
 - Get multiple authors: http://localhost:30002/authors
+- Get multiple customers: http://localhost:30002/customers
